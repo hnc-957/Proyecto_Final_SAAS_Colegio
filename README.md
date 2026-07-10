@@ -129,5 +129,6 @@ Este proyecto está bajo la licencia MIT.
 <div align="center">
   <strong>Elaborado por:</strong><br>
   <em>Juan Pablo Huanca Flores</em><br>
+  <em>Rojas Rodriguez Wilmer</em><br>
   <strong>Analista de Sistemas 2026</strong>
 </div>
